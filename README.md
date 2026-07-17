@@ -1,4 +1,4 @@
-🌊 Animated Wave Banner
+
 
 👋 Hi, I'm Shaik Thehseen
 
