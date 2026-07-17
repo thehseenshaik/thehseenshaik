@@ -70,18 +70,6 @@ https://github.com/thehseenshaik/GeekDailySolutions
 
 A collection of Java, Spring Boot, REST API, and Full Stack practice projects.
 
-*(Update this section as you add more repositories.)*
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thehseenshaik&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 # 📚 Currently Learning
@@ -107,10 +95,6 @@ A collection of Java, Spring Boot, REST API, and Full Stack practice projects.
 
 <a href="https://github.com/thehseenshaik">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/thehseexjnn">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Thehseen_2410/">
