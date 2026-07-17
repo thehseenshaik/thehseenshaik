@@ -27,29 +27,30 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,mysql,git,github,vscode&perline=10" />
-</p>
-🛠️ Tech Stack
-☕ 🌱 🐍 🌐 🎨 JS 🐬 Git GitHub VS Code
-
-👇 IKKADA GITHUB STATS CODE PASTE CHEYYALI 👇
-
-📊 GitHub Stats
-
 <p align="center">
-  ...
+  <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,mysql,git,github,vscode&perline=10" />
 </p>
 
-🔥 GitHub Streak
-
-<p align="center">
-  ...
-</p>
-
-🌐 Connect With Me
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thehseenshaik&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehseenshaik&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thehseenshaik&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/thehseenshaik">
