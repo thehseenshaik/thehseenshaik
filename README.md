@@ -1,4 +1,9 @@
-#thehseenskhaik
-This is my Git Repository-Thehseen 
-<br>
-Sony
+🌊 Animated Wave Banner
+
+👋 Hi, I'm Shaik Thehseen
+
+Java Full Stack Developer | AI Engineer | Machine Learning Enthusiast
+
+📍 India
+🎓 B.Tech CSE (3rd Year)
+💼 Open to Internships
