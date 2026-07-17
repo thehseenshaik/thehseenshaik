@@ -30,7 +30,24 @@
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,mysql,git,github,vscode&perline=10" />
 </p>
+🛠️ Tech Stack
+☕ 🌱 🐍 🌐 🎨 JS 🐬 Git GitHub VS Code
 
+👇 IKKADA GITHUB STATS CODE PASTE CHEYYALI 👇
+
+📊 GitHub Stats
+
+<p align="center">
+  ...
+</p>
+
+🔥 GitHub Streak
+
+<p align="center">
+  ...
+</p>
+
+🌐 Connect With Me
 ---
 ## 🌐 Connect With Me
 
