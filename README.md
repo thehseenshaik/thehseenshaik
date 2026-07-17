@@ -21,7 +21,7 @@
 - 🚀 Passionate about **Java Full Stack Development** and **Artificial Intelligence**
 - 🌱 Currently learning **Spring Boot**, **Machine Learning**, and **Backend Development**
 - 💻 Solving **Data Structures & Algorithms** regularly to strengthen problem-solving skills
-- 🤖 Building real-world **AI** and **Full Stack** applications
+- 🤖 Building **AI** and **Full Stack** applications
 - 🎯 Aspiring to become a **Software Engineer / AI Engineer**
 
 ---
